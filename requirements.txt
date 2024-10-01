@@ -1,0 +1,7 @@
+
+pandas
+black
+pytest
+pylint
+xgboost
+
